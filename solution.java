@@ -5,5 +5,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a number:");
         int n = scanner.nextInt();
+        int totalSetBits = 0;
     }
 }
