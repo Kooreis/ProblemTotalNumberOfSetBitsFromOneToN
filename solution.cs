@@ -6,5 +6,6 @@ class Program
     {
         Console.Write("Enter a number: ");
         int n = Convert.ToInt32(Console.ReadLine());
+        int bitCount = 0;
     }
 }
